@@ -22,7 +22,7 @@ Ensure you have the following installed:
 
 #### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/task-management-system.git
+git clone https://github.com/arpiitt/task-management-system.git
 cd task-management-system
 ```
 
