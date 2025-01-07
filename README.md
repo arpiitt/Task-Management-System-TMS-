@@ -46,9 +46,6 @@ The application will start at `http://localhost:8080`.
 ### API Endpoints
 Refer to the API documentation (Swagger or Postman collection) for available endpoints.
 
-## Web Scraping Reference
-If you want to implement **task-related data scraping**, refer to this article:
-[Task Management System Web Scraping](https://www.codewithmurad.com/2023/07/task-management-system-project-react-springboot.html)
 
 ## Contributing
 Feel free to fork this repository and create a pull request with improvements!
